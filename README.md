@@ -21,3 +21,15 @@ This is a simple Online Voting System built using Java and Object-Oriented Progr
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+OnlineVotingSystem/
+ ├── src/
+ │    └── model/
+ │         ├── DataStore.java
+ │         ├── UserService.java
+ │         ├── VotingService.java
+ │         └── main.java
+ ├── .gitignore
+ ├── README.md
+ └── LICENSE
