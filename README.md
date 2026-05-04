@@ -19,7 +19,7 @@ This is a simple Online Voting System built using Java and Object-Oriented Progr
 - OOP Concepts
 
 ---
-## Project Structure
+## 📂 Project Structure
 
 OnlineVotingSystem/
  ├── src/
