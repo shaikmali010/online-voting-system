@@ -1,11 +1,11 @@
 # Online Voting System
 
-## 📌 Overview
+## Overview
 This is a simple Online Voting System built using Java and Object-Oriented Programming concepts. The application allows users to register, log in, and securely cast votes.
 
 ---
 
-## 🚀 Features
+## Features
 - User Registration
 - User Login
 - Secure Voting System
@@ -19,9 +19,7 @@ This is a simple Online Voting System built using Java and Object-Oriented Progr
 - OOP Concepts
 
 ---
-
-## 📂 Project Structure
-## 📂 Project Structure
+## Project Structure
 
 OnlineVotingSystem/
  ├── src/
